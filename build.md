@@ -23,3 +23,9 @@
 [QMK Handwiring Guide](https://docs.qmk.fm/hand_wire)
 
 ![Schematic](./images/schematic.png)
+
+![Build](./images/build.jpg)
+
+## Firmware
+
+[QMK](https://github.com/dlip/qmk_firmware/tree/dlip/keyboards/dlip/tengoku)
