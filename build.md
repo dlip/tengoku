@@ -18,6 +18,10 @@
 | Rubber or Silicone Feet                                                              | 8   |                                                                             |
 | 30 AWG Flexible Silicone Wire                                                        | 1   | <https://www.aliexpress.com/item/1005007256968315.html>                     |
 
+## Printed Parts
+
+Printed parts are in the [cad](./cad/) folder. Printing the .stl files will give you a complete keyboard, but I have also made files for the case where the mcu holder screws are raised 0.5mm since I found it wouldn't sit flush with my prints.
+
 ## Wiring
 
 [QMK Handwiring Guide](https://docs.qmk.fm/hand_wire)
