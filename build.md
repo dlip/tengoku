@@ -24,9 +24,18 @@ Printed parts are in the [cad](./cad/) folder. Printing the .stl files will give
 
 ## Wiring
 
-[QMK Handwiring Guide](https://docs.qmk.fm/hand_wire)
+### Tips
+
+- [QMK Handwiring Guide](https://docs.qmk.fm/hand_wire)
+- Avoid putting solder on the side of the MCU and try to avoid putting too much on the bottom or it won't slide in the holder
+- Around 260c is a good temperature for melting in the heat inserts
+- Solder the Cirque GND pin to the TRRS GND pin an the TRRS GND pin to the MCU
+
+### Schematic
 
 ![Schematic](./images/schematic.png)
+
+### Pics
 
 ![Build](./images/build.jpg)
 
