@@ -9,6 +9,7 @@
 | M3 x 5 mm Flat Head Screws for attaching the bottom plate                            | 10  | <https://www.aliexpress.com/item/1005007257158892.html>                     |
 | M3 x 4 mm Flat Head Screws for attaching the microcontroller holder                  | 4   | <https://www.aliexpress.com/item/1005007257158892.html>                     |
 | M3 x 8 mm Flat Head Screws for attaching microcontroller holder through bottom plate | 2   | <https://www.aliexpress.com/item/1005007257158892.html>                     |
+| 1/4-20 8mm OD 6mm height Knurled Insert Nut (Optional)                               | 2   | <https://www.aliexpress.com/item/1005005225137961.html>                     |
 | Choc v1 Switches (I like Ambients Nocturnal)                                         | 28  | <https://keebd.com/products/ambients-silent-linear-nocturnal-choc-switches> |
 | Choc v1 Keycaps                                                                      | 28  | <https://chosfox.com/products/chocfox-cfx-choc-keycaps>                     |
 | Cirque 40mm Trackpads TM040040-2024-302 with flat overlay                            | 2   | <https://au.mouser.com/ProductDetail/Cirque/TM040040-2024-302>              |
@@ -20,7 +21,7 @@
 
 ## Printed Parts
 
-Printed parts are in the [cad](./cad/) folder. Printing the .stl files will give you a complete keyboard, but I have also made files for the case where the mcu holder screws are raised 0.5mm since I found it wouldn't sit flush with my prints.
+Printed parts are in the [cad](./cad/) folder. Printing the .stl files will give you a complete keyboard, but I have also made files for the case where the mcu holder screws are raised 0.5mm since I found it wouldn't sit flush with my prints. Use the plate with the mount holes if adding the 1/4-20 for mounting with a smallrig/camera clamp.
 
 ## Wiring
 
